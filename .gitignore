@@ -1,0 +1,8 @@
+.vscode/
+
+.venv/
+
+map.png
+map.db
+
+*.txt
