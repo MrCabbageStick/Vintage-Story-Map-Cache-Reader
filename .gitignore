@@ -23,5 +23,3 @@ bench/bench
 deno.lock
 bun.lockb
 .DS_Store
-
-*.txt
