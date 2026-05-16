@@ -1,5 +1,5 @@
 # Vintage Story Map Cache to Image
-Creates an png image from a map cache file.\
+Creates a PNG image from a map cache file.\
 Works for VS version: `1.22.2`
 
 🚨 WARNING: Highly vibecoded
